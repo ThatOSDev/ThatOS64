@@ -1,7 +1,5 @@
 # Step by Step Tutorials on how to code a 64-Bit loader and kernel for OS Development  
 
-CONTACT : uefidev@protonmail.com
-
 # NOTES  
 - WARNING - This code is for teaching purposes only. It is not written for professional use. Some code is written in order to speed up teaching, and thus is not properly coded. You should rewrite the code for your own professional use.  
 - Starting with CODE5, the resolution from the EFI file sets the screen height and width to 1920x1080.
